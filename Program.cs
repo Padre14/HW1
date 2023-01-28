@@ -82,7 +82,7 @@ else
 {
     while (num<=N)
     {
-        Console.Write(num);
+        Console.Write(num+" ");
         num = num + 2;
     }
 }
